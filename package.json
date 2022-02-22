@@ -1,0 +1,22 @@
+{
+  "name": "mern-texada",
+  "version": "1.0.0",
+  "description": "A simple MERN stack app with CRUD operations on material-table",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allauddq/mern-texada.git"
+  },
+  "author": "Qassim Allauddin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allauddq/mern-texada/issues"
+  },
+  "homepage": "https://github.com/allauddq/mern-texada#readme",
+  "dependencies": {
+    "create-react-app": "^5.0.0"
+  }
+}
